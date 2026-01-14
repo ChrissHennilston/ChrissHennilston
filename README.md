@@ -3,5 +3,5 @@
 <div align=center">
   <img src="devops-dashboard.svg" width="100%">
 </div>
-* __we are woriking on the multi cloud orchestration where single prompt can lead to deployment__ *
+_ **we are woriking on the multi cloud orchestration where single prompt can lead to deployment** _
 
